@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muhammadjon226
-- 👀 I’m interested in Python,C,Node.js,Go
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Python,C,Go
+- 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://t.me/valiyev_muhammadjon_226
 

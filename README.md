@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Muhammadjon226
+- 👋 Hi, I’m @Muhammadjon
 - 👀 I’m interested in Python,C,Go
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on ...

@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python,C,Go
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://t.me/valiyev_muhammadjon_226
+- 📫 How to reach me https://t.me/valiyev_muhammadjon
 
 <!---
 Muhammadjon226/Muhammadjon226 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Muhammadjon
-- 👀 I’m interested in Python,C,Go
-- 🌱 I’m currently learning Go
-- I can work with REST API, gPRC, WebSocket, PostgreSQL, Redis
+- 👀 I’m interested in C,Go
+- I'm a backend engineer
+- I can work with REST API, gPRC, WebSocket, PostgreSQL, Redis, Mongo, NodeJs
 - 📫 How to reach me https://t.me/valiyev_muhammadjon
 
 <!---
